@@ -814,7 +814,7 @@ nav .container{
 
     left: 0;
 
-    background-color: var(--main-color);
+    background-color: white;
 
 }
 
@@ -1267,6 +1267,8 @@ nav .container{
 
 
 .records {
+
+    margin-top: 60px;
 
     position:relative;
 
